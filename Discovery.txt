@@ -1,5 +1,0 @@
-*Git
-	* []O Guia Estelar do Git
-	* []O Guia Estelar do Github
-	* []Pilotando com a DOM
-###Colocar o código final no Github
